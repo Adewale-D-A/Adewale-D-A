@@ -58,6 +58,9 @@ I am a software developer with specilization in Front-End Web Devlopment.
  - [x] Host frontend Application using CloudFront Distribution, backend on AWS ElasticBeanstalk
  - [x] Implement as much Microservice as possible while developing the application
  
+ **_bucket list of learning activities (things to learn)_**
+ - [ ] programming raspberry pi using node JS | <a href="https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp" target="_blank">link reference to learn from</a> 
+ 
  **_side notes_**
  * travelling the world while meeting new people and getting new experiences
  * I love coding because when I am coding I feel like I am solving a problem bigger than myself.
