@@ -57,6 +57,7 @@ I am a software developer with specilization in Front-End Web Devlopment.
  - [x] Front-End that will consume the api designed backend Rest Api using REACT Js <a href="https://github.com/Adewale-D-A/iinvision" target="_blank">go to repository</a>
  - [x] Host frontend Application using CloudFront Distribution, backend on AWS ElasticBeanstalk
  - [x] Implement as much Microservice as possible while developing the application
+ - [x] use aws codepipeline for Continuous Deployment (CD) from github into aws ElasticBeanstalk
  
  **_bucket list of learning activities (things to learn)_**
  - [ ] programming raspberry pi using node JS | <a href="https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp" target="_blank">link reference to learn from</a> 
