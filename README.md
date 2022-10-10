@@ -56,9 +56,9 @@ I am a software developer with specilization in Front-End Web Devlopment.
  💡 **_current project_**
  - [x] Intercontinental Social food recipe Web Application which implements a REST api backend using Express Js, AWS S3 for blob storage, AWS RDS(MySQL) and AWS NoSQL (DynamoDB) to store user's persistent data <a href="https://github.com/Adewale-D-A/user-login-api" target="_blank">go to repository</a>
  - [x] Front-End that will consume the api designed backend Rest Api using REACT Js <a href="https://github.com/Adewale-D-A/iinvision" target="_blank">go to repository</a>
- - [x] Host react frontend Application on s3 static hosting, integrate CloudFront for edge distribution and codepipline for Continous Deployment
- - [x] Host backend on AWS ElasticBeanstalk and integrate codepipline for Continous Deployment
- - [x] Backend service for the application is splitted into two, user Upload backend server and user authentication backend Server
+ - [x] Host react frontend Application on s3 static hosting <a href="http://iinvision-frontend.s3-website-us-east-1.amazonaws.com" target="_blank">s3 url</a>, integrate CloudFront <a href="d35y4ivrvv9jqc.cloudfront.net" target="_blank">CloudFront url</a> for edge distribution and integrate Codepipeline for Continous Deployment
+ - [x] Host backend on AWS ElasticBeanstalk and integrate Codepipline for Continous Deployment
+ - [x] Backend service for the application is splitted into two, user Upload backend server and user authentication backend Server, <a href="http://user-login-api.us-east-1.elasticbeanstalk.com/" target="_blank">Click here for User Authentication Node Backend endpoint</a> and <a href="http://user-upload-api.us-east-1.elasticbeanstalk.com/" target="_blank">Click here for Upload User Upload Node Backend endpoint</a>
  - [x] Implement as much Microservice as possible while developing the application
  
  **_bucket list of learning activities (things to learn)_**
