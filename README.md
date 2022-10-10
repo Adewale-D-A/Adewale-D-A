@@ -44,6 +44,7 @@ I am a software developer with specilization in Front-End Web Devlopment.
 #### 🤹🏿 **_additional skills_**
 - [x] Utilizing AWS Cloud resources to set up S3, RDS, DynamoDB, MySql Databse, Serverless Application, CloudFront Distribution and ElasticBeanstalk.
 - [x] DEVOPS tools (Travis CI) for setting up a CI (Continous Integration) pipeline
+- [x] AWS codepipeline on s3 and Elastic Beanstalk
 - [x] Containerizing Applications Using Docker Technology
 
 
@@ -55,9 +56,10 @@ I am a software developer with specilization in Front-End Web Devlopment.
  💡 **_current project_**
  - [x] Intercontinental Social food recipe Web Application which implements a REST api backend using Express Js, AWS S3 for blob storage, AWS RDS(MySQL) and AWS NoSQL (DynamoDB) to store user's persistent data <a href="https://github.com/Adewale-D-A/user-login-api" target="_blank">go to repository</a>
  - [x] Front-End that will consume the api designed backend Rest Api using REACT Js <a href="https://github.com/Adewale-D-A/iinvision" target="_blank">go to repository</a>
- - [x] Host frontend Application using CloudFront Distribution, backend on AWS ElasticBeanstalk
+ - [x] Host react frontend Application on s3 static hosting, integrate CloudFront for edge distribution and codepipline for Continous Deployment
+ - [x] Host backend on AWS ElasticBeanstalk and integrate codepipline for Continous Deployment
+ - [x] Backend service for the application is splitted into two, user Upload backend server and user authentication backend Server
  - [x] Implement as much Microservice as possible while developing the application
- - [x] use aws codepipeline for Continuous Delivery (CD) from github into aws ElasticBeanstalk
  
  **_bucket list of learning activities (things to learn)_**
  - [ ] programming raspberry pi using node JS | <a href="https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp" target="_blank">link reference to learn from</a> 
