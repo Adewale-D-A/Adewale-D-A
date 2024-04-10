@@ -12,8 +12,8 @@
 </div>
 
 # Hello there <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="40px" alt="waving hand"/>, I am Adewale.
-### _I am an Awesome Front-End Web Developer_ 
-> Welcome to my Github Profile, the house where my codes resides.
+### _I am a Front-End Web Developer_ 
+> Welcome to my Github Profile.
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -42,28 +42,25 @@ I am a software developer with specilization in Front-End Web Devlopment.
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adewale-d-a&theme=dark&background=000000)](https://git.io/streak-stats)
  
 #### 🤹🏿 **_additional skills_**
-- [x] Utilizing AWS Cloud resources to set up S3, RDS, DynamoDB, MySql Databse, Serverless Application, CloudFront Distribution and ElasticBeanstalk.
-- [x] DEVOPS tools (Travis CI) for setting up a CI (Continous Integration) pipeline
-- [x] AWS codepipeline on s3 and Elastic Beanstalk
-- [x] Containerizing Applications Using Docker Technology
+- [x] AWS
+- [x] Travis CI (DEVOps)
+- [x] Docker
+- [x] Node Backend Development
 
 
 ✒️ **_Certifications_**
  - [x] <a href="https://confirm.udacity.com/ZUHCAYZR" target="_blank">Udacity Cloud Developer Nanodegree</a>
+ - [x] <a href="https://adscerts.com/scholar/F40D6BE0FA6312C" target="_blank">Google Cloud</a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adewale-d-a&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  💡 **_current project_**
- - [x] Intercontinental Social food recipe Web Application which implements a REST api backend using Express Js, AWS S3 for blob storage, AWS RDS(MySQL) and AWS NoSQL (DynamoDB) to store user's persistent data <a href="https://github.com/Adewale-D-A/user-login-api" target="_blank">go to repository</a>
- - [x] Front-End that will consume the api designed backend Rest Api using REACT Js <a href="https://github.com/Adewale-D-A/iinvision" target="_blank">go to repository</a>
- - [x] Host react frontend Application on s3 static hosting <a href="http://iinvision-frontend.s3-website-us-east-1.amazonaws.com" target="_blank">s3 url</a>, integrate CloudFront <a href="https://d35y4ivrvv9jqc.cloudfront.net/" target="_blank">CloudFront url</a> for edge distribution and integrate Codepipeline for Continous Deployment
- - [x] Host backend on AWS ElasticBeanstalk and integrate Codepipline for Continous Deployment
- - [x] Backend service for the application is splitted into two, user Upload backend server and user authentication backend Server, <a href="http://user-login-api.us-east-1.elasticbeanstalk.com/" target="_blank">Click here for User Authentication Node Backend endpoint</a> and <a href="http://user-upload-api.us-east-1.elasticbeanstalk.com/" target="_blank">Click here for Upload User Upload Node Backend endpoint</a>
- - [x] Implement as much Microservice as possible while developing the application
+ - [x] FarmSmarter Marketplace
  
  **_bucket list of learning activities (things to learn)_**
  - [ ] programming raspberry pi using node JS | <a href="https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp" target="_blank">link reference to learn from</a> 
+ - [ ] IOT (Internet of Things)
  
  **_side notes_**
- * travelling the world while meeting new people and getting new experiences
- * I love coding because when I am coding I feel like I am solving a problem bigger than myself.
+ * travelling the world and meeting new people
+ * Solving problems using code
